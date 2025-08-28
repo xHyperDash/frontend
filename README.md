@@ -28,8 +28,7 @@ Como las vistas están en /prototipos/, para enlazar recursos se usa `/`:
 
 # Cómo ejecutar
 1. Clona/descarga el repositorio.
-2. Abre cualquiera de las vistas en `/views/` con tu navegador.  
-(Recomendado: extensión Live Server de VS Code.)
+2. Abre cualquiera de las vistas en `/prototipos/` con tu navegador o ejecuta `index.html` con Live Server de VS Code.
 
 # Estado actual
 - Diseño de Login y Registro
